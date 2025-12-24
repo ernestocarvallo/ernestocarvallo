@@ -56,3 +56,12 @@ These projects involve security, performance, compliance, and uptime where small
 
 I value systems that are boring in production and easy to reason about.  
 If it’s complex, it should be complex for a reason.
+
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
